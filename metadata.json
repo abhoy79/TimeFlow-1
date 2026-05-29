@@ -1,0 +1,6 @@
+{
+  "name": "TimeFlow",
+  "description": "Smart Time Management App combining task management, habits, focus timers, and calendars.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
